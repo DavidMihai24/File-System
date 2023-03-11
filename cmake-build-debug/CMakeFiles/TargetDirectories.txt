@@ -1,0 +1,3 @@
+/Users/davidghelesel/Downloads/tema3SD/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/davidghelesel/Downloads/tema3SD/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/davidghelesel/Downloads/tema3SD/cmake-build-debug/CMakeFiles/tema3SD.dir
