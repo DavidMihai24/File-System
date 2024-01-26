@@ -1,9 +1,9 @@
-GHELESEL David-Mihai 311CB
+GHELESEL David-Mihai
 
-Pentru realizarea acestei teme, am folosit urmatoarele structuri:
-1. Dir - continand campurile aferente pentru arborii de directoare
-2. File - continand campurile aferente pentru arborii de fisiere
+For the realization of this project, I used the following structures:
+1. Dir - containing the corresponding fields for the directory trees
+2. File - containing the corresponding fields for file trees
 
-Acestea sunt ele insasi arbori binari de cautare, avand fiecare cate un left-child si cate un right-child. Prima structura are in plus campurile "directories" si "files", intrucat directoarele pot contine subdirectoare si fisiere. Pentru mai multe dintre functiile implementate am folosit functia search, care reprezinta o parcurgere atat a fisierelor, cat si a directoarelor. De asemenea am folosit concepte precum recursivitatea pentru rezolvarea anumitor task-uri.
+These are themselves binary search trees, each having a left-child and a right-child. The first structure has in addition the fields "directories" and "files", since directories can contain subdirectories and files. For several of the implemented functions I used the search function, which is a browse of both files and directories. We also used concepts such as recursion to solve certain tasks.
 
-Pentru eliberarea memoriei am incercat sa folosesc functiile discutate in laboratorul 8 de distrugere a arborelui, efectuand free pentru toti arborii de cautare.
+For memory freeing I used the functions for the destruction of a tree, performing "free" for all search trees.
